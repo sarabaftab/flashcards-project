@@ -45,7 +45,7 @@ Here's a walkthrough of implemented required features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with Kap
+GIF created with freeconvert.com
 
 ## Notes
 
